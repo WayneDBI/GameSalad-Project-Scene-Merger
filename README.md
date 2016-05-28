@@ -1,6 +1,11 @@
 # GameSalad-Project-Scene-Merger
-XOJO Source Code tool to merger multiple GameSalad Scenes into one new combined scene.
-
+XOJO Source Code tool to merge multiple GameSalad Scenes into one new combined scene.
+------------------------------------------
+- Select GameSalad Project
+- All scenes within will be listed
+- User can select which scenes to merge
+- A NEW Scene will be created, with the actors combined
+------------------------------------------
 Requires:
 XOJO 2014 R1.1 +
 http://www.xojo.com
